@@ -1,3 +1,9 @@
 altair
 pandas
 streamlit
+jinja2
+requests
+boto3
+awscli
+s3cmd
+pyyaml
